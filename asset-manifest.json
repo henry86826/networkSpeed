@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/networkSpeed/static/css/main.552b903f.css",
+    "main.js": "/networkSpeed/static/js/main.f4da115a.js",
+    "index.html": "/networkSpeed/index.html",
+    "main.552b903f.css.map": "/networkSpeed/static/css/main.552b903f.css.map",
+    "main.f4da115a.js.map": "/networkSpeed/static/js/main.f4da115a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.552b903f.css",
+    "static/js/main.f4da115a.js"
+  ]
+}
